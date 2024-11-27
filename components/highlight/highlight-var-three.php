@@ -7,7 +7,7 @@
 <section class="container-xxl my-5">
   <div class="row">
     <div class="col-12">
-      <article class="mb-4">
+      <article>
         <header>
           <span class="topper">Política</span>
           <a href="#">
@@ -24,7 +24,7 @@
   </div>
 
   <div class="row">
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -32,7 +32,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -40,7 +40,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -48,7 +48,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -56,7 +56,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -64,7 +64,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -72,7 +72,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">
@@ -80,7 +80,7 @@
           </a>
         </article>
     </div>
-    <div class="col-lg-3 col-sm-3 col-md-3 col-6 mb-3">
+    <div class="col-lg-3 col-sm-3 col-md-3 col-6">
         <article class="separator__top">
           <span class="topper mb-1">Entretenimento</span>
           <a href="#">

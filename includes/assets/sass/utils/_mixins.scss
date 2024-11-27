@@ -1,0 +1,8 @@
+// MIXINS
+@mixin truncate($limit: 3) {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: $limit;
+    -webkit-box-orient: vertical;
+}
